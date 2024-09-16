@@ -1,2 +1,2 @@
 # html-portfolio
-Baby step portfolio
+Baby step portfolio.
